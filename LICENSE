@@ -1,0 +1,29 @@
+ESP_HOME Hardware and Documentation
+Copyright (c) 2026 Nitheesh NR Labs
+
+This project is licensed under the CERN Open Hardware License Version 2 - Strongly Reciprocal (CERN-OHL-S v2).
+
+You may redistribute and modify this documentation and hardware design files under the terms of the CERN-OHL-S v2.
+
+Source location: https://github.com/Nitheesh-NR-Labs/ESP_HOME
+
+Any modified versions of this design must:
+
+* retain this copyright notice
+* retain the CERN-OHL-S license notice
+* make the modified design files publicly available under the same license
+
+This ensures that improvements to the design remain open and accessible to the community.
+
+---
+
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Preamble
+
+The CERN Open Hardware Licence is a licence for the design of hardware and related documentation. The licence grants permission to use, study, modify, share and distribute hardware designs and products based on those designs.
+
+This licence ensures that if you distribute modified versions of the design or products based on it, you must make the modified design documentation available under the same licence.
+
+Full license text:
+https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2
